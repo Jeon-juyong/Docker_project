@@ -10,5 +10,17 @@
     "year": 2025,
     "semester": 1,
     "grade": "A0"
+  },
+  {
+    "course_name": "AI 수학",
+    "year": 2026,
+    "semester": 1,
+    "grade": "A+"
+  },
+  {
+    "course_name": "오픈소스소프트웨어 실습",
+    "year": 2026,
+    "semester": 1,
+    "grade": "A+"
   }
 ]
